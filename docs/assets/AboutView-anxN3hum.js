@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c}from"./index-kKKGHHsF.js";const s={},a={class:"about"},n=c("h2",null,"Simple QR Scaner",-1),_=[n];function r(i,d){return o(),t("div",a,_)}const f=e(s,[["render",r]]);export{f as default};
